@@ -1,6 +1,6 @@
 
 /* TESTS
- * Done by Shtokolenko Leontiy, Statistics
+ * Done by Shtokolenko Leontiy
  */
 
 #include "src/Dmatrix.h"
